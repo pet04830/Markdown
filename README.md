@@ -7,6 +7,28 @@ it helps to remember that markdown basically follows
 standard that people had pretty agreed to when writing in 
 plain text.
 
+## Quotes 
+
+When you write a document, like a paper or a report, you might need 
+to quote someone
+Informal documents you can do two kinds of quotes:
+*inline* quotes or *block* quotes
+
+An inline quote uses quote marks 
+For example, "Lorem Ipsum" is just a dummy text that you can use in a document 
+as a placeholder text. that way, it doesn't repeat the text has sim
+characteristics to read text. 
+Fist sentence for "Lorem Ipsum" is:
+
+> "Lorem ipsum dolor sit amet,
+> consectetur adipiscing elit,
+> sed do eiusmod tempor incididunt ut
+> labore et dolore magna aliqua.
+
+
+
+## Lists
+### Ordered Lists 
 Lets take lists as an example. 
 Think about how you'd write an *ordered list*, which is a list with numbers. 
 How would you write that in plain text? 
@@ -18,6 +40,7 @@ Types of DITA documents:
 2. DITA Task 
 3. DITA Reference
 
+### Unorganized Lists 
 The other kind of a list is a "bullet" list, also called an *unordered list*.
 Going back to DITA, well also learn some other DITA files that you need to 
 create projects, including these:
@@ -30,6 +53,7 @@ You can also use a dash or hyphen to make a bullet list:
 - DITA Map 
 - Dita Val
 
+### Sublisting
 You ca also make sublists using extra spacing. Here is a bullet list with a sublist
 inside the first item:
 
@@ -49,4 +73,5 @@ and bullet list items on the second item:
    2. Second sub step 
 2. Step two
    * itemized list item
-   * another list item 
+   * another list item
+     
