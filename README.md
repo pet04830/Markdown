@@ -1,4 +1,4 @@
- Technical Writing in Markdown
+ Technical writing in Markdown
 ===============================
 
 Markdown is just a simplified markup system written in plain text.
@@ -29,3 +29,24 @@ You can also use a dash or hyphen to make a bullet list:
 
 - DITA Map 
 - Dita Val
+
+You ca also make sublists using extra spacing. Here is a bullet list with a sublist
+inside the first item:
+
+* First item
+  * Sub-item
+  * Another Sub-item
+  * A third Item
+* Second Item
+
+you can also make sublist items in an ordered list, just make sure to use 
+numbers (or stars/hyphens) in the sub items. 
+Heres a numbered list with sublists item on the first item
+and bullet list items on the second item:
+
+1. Step one
+   1. First sub step 
+   2. Second sub step 
+2. Step two
+   * itemized list item
+   * another list item 
